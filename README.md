@@ -33,6 +33,15 @@ The project utilizes many authentication methods and machine learning models.
 * Support Vector Machine Models
 
 ## Hardware and Software
+<p align ="center">
+  <img src="https://github.com/user-attachments/assets/cf3eb726-3d49-437b-8799-30b8db7051b8" width="200" height="200" />
+  <img src="https://github.com/user-attachments/assets/f4d79a5a-be37-4707-95bf-46827a2c4843" width="200" height="200" />
+  <img src="https://github.com/user-attachments/assets/87dbcd07-1c41-452e-bd0c-583aa5145316" width="200" height="200" />
+</p>
+
+Android Studio with Java was used to implement the framework hosting the multi-factor continuous authenticator mechanism that will be running on an android smartphone
+
+
 
 # Project Outcomes
 
